@@ -1,0 +1,17 @@
+.tittle{
+    text-align: left;
+    font-size: 65px;
+    color: white;
+}
+body{
+    background:url(night.jpg);
+}
+.main-menu ul li {
+    color: rgb(134, 15, 185);
+    font-size: 29px;
+    list-style-type: square;
+}
+img{
+    float:right;
+    padding-right:300px;
+}
