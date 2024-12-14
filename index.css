@@ -3,6 +3,13 @@
     font-size: 65px;
     color: white;
 }
+.title1{
+    text-align: center;
+    font-size: 35px;
+    color: white;
+    border: 2px;
+    background-color: rgb(84, 23, 123);
+}
 body{
     background:url(night.jpg);
 }
@@ -14,4 +21,64 @@ body{
 img{
     float:right;
     padding-right:300px;
+}
+.main1{
+    display:flex ;
+    direction: center;
+}
+.mahsol{
+    flex-grow: 1;
+    direction: center;
+    font-size: 25px;
+    text-align: left;
+    color: white;
+    margin: 10px 2px;
+    padding:2px 1px;
+}
+#aksmahsol{
+    width: 300px;
+    height: 150px;
+}
+.main2{
+    text-align: center;
+    color: rgb(37, 40, 255);
+    font-size: 60px;
+    margin-top: 650px;
+}
+.main3{
+    display:flex ;
+}
+.matlab{
+    color: rgb(255, 241, 111);
+    font-size: 25px;
+    flex-grow:1;
+}
+#aksmatlab{
+    width: 220px;
+    height: 110px;
+}
+#matn11{
+    text-align: center;
+    color: rgb(249, 228, 191);
+    font-size: 20px;
+    padding: 2px 1px;
+    margin: 2px 1.5px;
+}
+button{
+    size: 20px;
+    background-color: khaki;
+    color: rgb(0, 0, 0);
+}
+.titr{
+    text-align: center;
+    color: rgb(255, 241, 111);
+    font-size: 50px;
+}
+.neveshte{
+    text-align: right;
+    color: rgb(249, 228, 191);
+    font-size: 35px;
+}
+h1 {
+    color: #f03a17;
 }
